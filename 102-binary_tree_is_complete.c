@@ -1,7 +1,4 @@
 #include "binary_trees.h"
-
-/** by noguiaa */
-
 /**
  * binary_tree_is_leaf - check node leaf or not
  * @node: node to check
